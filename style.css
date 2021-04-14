@@ -1,0 +1,66 @@
+p {font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #001440;
+    word-spacing: 5px;
+}
+a:visited{
+    border-bottom: 1px solid #453886;
+    color:#B5338a;
+}
+a:hover{
+    border-bottom: 1px solid #453886;
+    color:#AF69EE;
+}
+.good{
+    text-transform: capitalize;
+    color:#00A86B;
+}
+body{
+    width: 90%;
+    margin:0 auto;
+    background-image: url("https://images.unsplash.com/photo-1528145913842-29edebe7bdb9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjI0MX0&s=be2eb8418f6af2e9e988da652113b7b9&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-position: bottom-right;
+    background-size: cover;
+
+}
+q {
+    margin: 0 auto;
+    font-size: 160%;
+    background-color: #EBECF0;
+    border-left: 3px dashed;
+    /*padding-left: 30px;
+    padding-bottom: 80px;
+    padding-top: 80px;*/
+    font-style: italic;
+}
+.villagers{
+    border-left: 3px dashed;
+    border-color: #800080;
+}
+.farmer{
+    border-left: 3px dashed;
+    border-color: #EF7215;
+}
+header{
+    background-color: #FADA5E;
+}
+.bad{
+    text-transform: capitalize;
+    color:#C21807;
+}
+th{
+    background-color: red;
+}
+td{
+    background-color: yellow;
+}
+.first paragraph{
+    font-weight: bold;
+}
+figure{
+    float: left;
+    margin: 25px;
+    position: relative;
+}
+
